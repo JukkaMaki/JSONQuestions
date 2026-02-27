@@ -1,8 +1,9 @@
 {"questions":[
-    {"q" : "Minkä värinen oli Napoleonin valkoinen hevonen?", "answer1" : "Musta", "answer2" : "Sininen", "answer3" : "Valkoinen", "correctAnswer" : "Valkoinen"},
-    {"q" : "Kuka on karvisen omistaja?", "answer1" : "Jaska", "answer2" : "Esko", "answer3" : "Reiska", "correctAnswer" : "Esko"},
-    {"q" : "Kuinka monta sormea orangilla on?", "answer1" : "4", "answer2" : "6", "answer3" : "5", "correctAnswer" : "5"}]
+    {"q" : "Minkä värinen oli Napoleonin valkoinen hevonen?", "answer1" : "Musta", "answer2" : "Sininen", "answer3" : "Valkoinen", "correctAnswer1" : "Valkoinen"},
+    {"q" : "Kuka on karvisen omistaja?", "answer1" : "Jaska", "answer2" : "Esko", "answer3" : "Reiska", "correctAnswer2" : "Esko"},
+    {"q" : "Kuinka monta sormea orangilla on?", "answer1" : "4", "answer2" : "6", "answer3" : "5", "correctAnswer3" : "5"}]
 }
+
 
 
 
